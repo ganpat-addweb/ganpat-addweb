@@ -7,7 +7,7 @@
 
 🤝 I’m looking for help with **advanced state management, microservices architecture, and database optimization.**  
 
-💬 Ask me about **MongoDB, Express.js, Vue.js, Node.js, Nuxt.js, Pinia, and API integrations.**  
+💬 Ask me about **MongoDB, Express.js, Vue.js, Node.js, Nuxt.js, and API integrations.**  
 
 ⚡ Fun fact: **I deploy apps faster than my coffee gets cold! ☕🚀**  
 
